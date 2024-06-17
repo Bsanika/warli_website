@@ -18,33 +18,13 @@ Welcome to Warli Stories, a simple yet elegant website created for a small busin
 - **Swiper.js:** Library used to implement the image slider.
 - **Font Awesome:** Icons for visual enhancement and navigation.
 
-## Project Structure
-WarliSite/
-├── assets/
-│ ├── cart1.jpg
-│ ├── cart2.jpg
-│ ├── cart3.jpg
-│ ├── product2.jpg
-│ ├── product3.jpg
-│ ├── product6.jpg
-│ ├── product13.jpg
-│ ├── product15.jpg
-│ ├── product16.jpg
-│ └── title.png
-├── index.html
-├── styles.css
-└── index.js
-
-
 
 ## Installation and Setup
 1. Clone the repository:
 git clone https://github.com/Bsanika/warli_website.git
-Copy code
 
 2. Navigate to the project directory:
 cd warli_website
-Copy code
 
 3. Open `index.html` in your preferred web browser.
 
